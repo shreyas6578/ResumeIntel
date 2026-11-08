@@ -124,8 +124,6 @@ pip install streamlit nltk google-generativeai python-docx pymysql \
 
 ---
 
-### 📸 Screenshots (Optional)
-> *(You can add `.png` or `.gif` previews here for each section like: Resume Analysis, Skill Tags, AI Cover Letter UI, Admin Dashboard)*
 
 ---
 
